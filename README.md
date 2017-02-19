@@ -1,7 +1,7 @@
-## settingupadatascienceproject
+# settingupadatascienceproject
 Mar 6
 
-# Optional, but very helpful basic Python Tutorial (will not do this on Mar 6, made this for data scientists new to Python)
+## Optional, but very helpful basic Python Tutorial (will not do this on Mar 6, made this for data scientists new to Python)
 
 1. ~/$ mkdir mar6
 
