@@ -9,4 +9,12 @@ Mar 6
 
 4. ~/mar6$ jupyter notebook
 
-5. ~/mar6$  
+5. In the top right-hand corner of your jupyter notebook browser window, click 'new'->Python [conda env:py27] to run your own notebook.
+
+6. Go 'home' to open and run the 'Upper Valley Data Scientists Python Tutorial'.
+
+7. You can run the cells by clicking within them, editing them to your liking to try things out, and pressing shift-enter.
+
+8. You can save your progress in your new notebook, if you choose to do some testing of Python out over there.
+
+9. And you can download your noteboook from the file menu as well.  
