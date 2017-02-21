@@ -15,7 +15,7 @@ We will be modifying a kaggle.com code notebook to demonstrate the bag of words 
 
 5. Discuss, brainstorm, modify the code on your own machine and together.
 
-## Optional - basic Python Tutorial (will not do this on Mar 6, made this for data scientists new to Python)
+## Optional - general Python Tutorial if you like
 
 1. ~/$ mkdir dir
 
@@ -37,7 +37,7 @@ We will be modifying a kaggle.com code notebook to demonstrate the bag of words 
 
 This tutorial uses  modules, comments, print, arithmetic operators, order of operation, lists, tuples, dictionaries, conditional operators, logical operators, if, else, elif, loops, for, while, break, continue, functions, return, readline(), string operators, file i/o, objects, and classes. 
 
-## Optional - basic data science techniques in R (will not do this on Mar 6, made this for data scientists new to R)
+## Optional - a few data science techniques in R if you like
 
 1. Download RStudio 1.0.136 - https://www.rstudio.com/products/rstudio/download/ 
 2. Download R-3.3.2 - https://cran.cnr.berkeley.edu/ 
