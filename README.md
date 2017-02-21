@@ -1,7 +1,9 @@
 # settingupadatascienceproject
 Mar 6
 
-## Mar 6 Tutorial - Bag of Words Model for Computerized Applicant Screening 
+## Mar 6 Data Science Tutorial - Applications of the Bag of Words Model in Computerized Applicant Screening and for a Sentiment Analysis Chatbot (45 mins)
+
+We will be modifying a kaggle.com code notebook to demonstrate the bag of words model. The code is open source and you can use it for your own projects.  
 
 1. Create a kaggle.com account.
 
