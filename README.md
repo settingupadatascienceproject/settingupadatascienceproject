@@ -1,7 +1,7 @@
 # settingupadatascienceproject
 Mar 6
 
-## Mar 6 Data Science Tutorial - Bag of Words Model for Computerized Applicant Screening
+## Mar 6 - Bag of Words Model for Computerized Applicant Screening
 
 We will be modifying a kaggle.com code notebook to demonstrate the bag of words model. The code is open source and you can use it for your own projects.  
 
