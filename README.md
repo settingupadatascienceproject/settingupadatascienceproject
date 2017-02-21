@@ -51,3 +51,5 @@ This tutorial uses  modules, comments, print, arithmetic operators, order of ope
 6. And you can save your script from the file menu.
 
 This tutorial uses functions, classes (identify the type of an object), linear regression, multiple linear regression, and PCA. 
+
+Credits: Derek Banas, Ian Dworkin, Tutorlol, statisticsfun, Melvin L, settingupadatascienceproject 
