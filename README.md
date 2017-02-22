@@ -7,9 +7,9 @@ We will be modifying a kaggle.com code notebook to demonstrate the bag of words 
 
 1. Create a kaggle.com account.
 
-2. Go to #to-do: share notebook.
+2. Go to #to-do: notebook link.
 
-3. Fork #to-do: share notebook.
+3. Fork #to-do: notebook link.
 
 4. Run the cells in the notebook using shift-enter.
 
