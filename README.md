@@ -3,7 +3,7 @@ Mar 6
 
 ## Mar 6 - Bag of Words Model for Computerized Applicant Screening
 
-We will be modifying a kaggle.com code notebook to demonstrate the bag of words model. The code is open source and you can use it for your own projects.  
+We will be modifying a kaggle.com code notebook to demonstrate the bag of words model. It should be fun to look at the code together, or if you want, you can look up on the projector.  
 
 1. Create a kaggle.com account.
 
